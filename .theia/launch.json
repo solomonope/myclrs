@@ -1,0 +1,27 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-InsertSort<myclrs_d7c250ff>",
+      "request": "launch",
+      "mainClass": "c2.InsertSort",
+      "projectName": "myclrs_d7c250ff"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MergeSort<myclrs_d7c250ff>",
+      "request": "launch",
+      "mainClass": "c2.MergeSort",
+      "projectName": "myclrs_d7c250ff"
+    }
+  ]
+}
